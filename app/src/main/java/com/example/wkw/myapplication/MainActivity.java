@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity implements ActivityCompat.On
                 .setActionStatus(Action.STATUS_TYPE_COMPLETED)
                 .build();
     }
-
+//
     @Override
     public void onStart() {
         super.onStart();
